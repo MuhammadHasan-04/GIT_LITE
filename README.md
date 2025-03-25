@@ -1,4 +1,4 @@
-GitLite: A Lightweight Version Control System with Advanced Tree Structures
+**GitLite: A Lightweight Version Control System with Advanced Tree Structures**
 GitLite is a custom-built version control system inspired by Git but designed with a unique approach to data management. Unlike traditional Git, which primarily relies on hashes and object storage, GitLite introduces AVL Trees, B-Trees, and Red-Black Trees to efficiently organize, track, and retrieve versioned files. These tree structures are implemented using file-based storage, allowing for a structured and efficient way to handle version control without relying on databases.
 
 🔹 Key Features
